@@ -27,7 +27,7 @@ const Footer: React.FC = () => {
               onClick={scrollToTop}
               className="text-2xl font-bold mb-4 hover:text-blue-400 transition-colors"
             >
-              Your Name
+              Ashmi
             </button>
             <p className="text-gray-400 mb-6 max-w-md">
               Creating exceptional digital experiences through thoughtful design and clean code. 
@@ -77,7 +77,7 @@ const Footer: React.FC = () => {
         {/* Bottom section */}
         <div className="mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm mb-4 md:mb-0">
-            © {currentYear} Your Name. All rights reserved.
+            © {currentYear} Ashmi. All rights reserved.
           </p>
           
           <p className="text-gray-400 text-sm flex items-center">
